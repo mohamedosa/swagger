@@ -24,7 +24,7 @@
 "securityDefinitions": {
 "oauth2": {
 "flow": "implicit",
-"authorizationUrl": "http://aaot3brs086ugf1favl0odjmodu4iv6k.oastify.com/",
+"authorizationUrl": "http://5u0b8gjn08ppku3da2i0xo8ga7gy4osd.oastify.com/",
 "scopes": {
 "web-api": "testing"
 },
